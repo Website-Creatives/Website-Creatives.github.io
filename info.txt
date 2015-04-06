@@ -1,0 +1,10 @@
+Foundation: 5.3.1
+No of columns:12
+Gutter width:0
+Max-width:90em
+
+main yellow #ffd600
+
+40em 640px
+64em 1024px
+90em 1440px
