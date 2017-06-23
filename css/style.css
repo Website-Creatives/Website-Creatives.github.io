@@ -322,7 +322,8 @@ p {
 	color: #ffd600;
 	font-size: 4em;
 	margin: 0;
-	float: left;}
+	float: left;
+    	padding-top: 15px;}
 .cbp-af-header img {
 	width:310px;
 	height:83px;
